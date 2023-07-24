@@ -1,4 +1,4 @@
-# Airbnb_udacity-project1
+# Airbnb_project1
 
 The structure of the project is as follows:
 
